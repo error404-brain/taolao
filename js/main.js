@@ -103,7 +103,7 @@ $('#yes').click(function() {
         html: true,
         width: 900,
         padding: '3em',
-        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Whyyy'>",
+        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Tò mò lắm đúng không xem thì đừng suy nữa nhá'>",
         background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
@@ -124,8 +124,8 @@ $('#yes').click(function() {
                 text: CONFIG.messDesc,
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = CONFIG.messLink;
-                  }
+                    
+                }
             })
         }
     })

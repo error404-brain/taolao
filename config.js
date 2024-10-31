@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Bạn bơ à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    Mà sao bạn cứ đi nhầm đường thế này chán bạn ghê :)))`,
+    btnIntro: 'Xem tiếp nhé',
+    title: 'Bạn có muốn xem thiệp tôi gửi bạn không ?',
+    desc: '',
+    btnYes: '=)))))) oki',
+    btnNo: 'Hong thèm ',
+    question:'Cam kết không suy nữa nhá',
+    btnReply: 'Okiiiii lun <3',
+    reply: 'Tôi là bơ từ giờ chở đi tui sẽ không suy nữa',
+    mess: 'Thông điệp cho bé Bơ này',
+    messDesc: 'Hi bạn Bơ nè. Mình biết bạn có nhiều chuyện buồn, nhưng mà này Cuộc sống luôn có vô vàng những điều tốt đẹp đang chờ bạn phía trước, vui vẻ đón nhận đi nè, minh muốn có thể cùng nhau chia sẻ những niềm vui và nụ cười với bạn nè. Mình luôn sẵn sàng lắng nghe và muốn bên bạn, và cũng hy vọng có thể mang lại chút ánh sáng cho những ngày tối tăm của bạn. Nên là đừng buồn nữa nè cô gái xinh đẹp <3',
+    btnAccept: 'Hứa nhun nè',
 }
